@@ -134,11 +134,11 @@ const CV = () => {
                 <P>
                   My role as an Application Engineer at Versett has me switching
                   between strategic consulting and UX execution functions as I
-                  help design and build technological solutions for clients in
-                  enterprise, startup, and venture domains. I leverage the most
-                  modern Javascript web technologies to build accessible,
-                  secure, performant, web and mobile applications. Together with
-                  my team, we have delivered scalable customized solutions
+                  help design and build solutions for clients in enterprise,
+                  startup, and venture domains. I leverage the most modern
+                  Javascript web technologies to build accessible, secure,
+                  performant, web and mobile applications. Together with my
+                  team, we have delivered scalable customized solutions
                   including cryptocurrency exchange platforms, business travel
                   tools, custom ecommerce platforms, rich data visualizations,
                   mobile career coach applications and many more. The wide range
@@ -158,7 +158,7 @@ const CV = () => {
                   assisted students as they progressed through a 10 week
                   intensive web development bootcamp. The curriculum was
                   iterative and new technologies were often replacing older ones
-                  requiring me to quickly become up to speed in order to best
+                  requiring me to quickly familiarize myself in order to best
                   assist the students. Calgary is a sattelite office from the
                   Toronto based operations so there was ample opportunity for me
                   to help coordinate and facilitate events such as demo days,
@@ -173,16 +173,15 @@ const CV = () => {
               details={
                 <P>
                   I was brought on as a contractor to help a local student
-                  crowdfunding startup pivot to a freelancer marketplace that
-                  aimed to connect local startups and small businesses with
-                  student freelancers. I made extensive customizations to the
-                  automation and workflow features of an existing marketplace
-                  framework build on Wordpress for the year long project.
-                  Although the endeavor was unsuccesful, the opportunity to dive
-                  into the startup world birthed my love for the unknown. I also
-                  successfully landed RCKTSHP a finalist position in Startup
-                  Calgary's Launchpad Accelerator challenge on just two days
-                  notice!
+                  crowdfunding startup pivot to a freelancer marketplace aiming
+                  to connect local startups and small businesses with student
+                  freelancers. I made extensive customizations to the automation
+                  and workflow features of an existing marketplace framework
+                  build on Wordpress. Although the startup was ultimitely
+                  unsuccesful, the opportunity to dive into the startup world
+                  birthed my love for the unknown. I also successfully landed
+                  RCKTSHP a finalist position in Startup Calgary's Launchpad
+                  Accelerator pitch competition on just two days notice!
                 </P>
               }
             />
@@ -198,8 +197,7 @@ const CV = () => {
                   During my time here, I set up a large virtual network to mimic
                   a complex client setup and went through the process of
                   intentionally breaking, debugging, and repairing for the most
-                  in-depth understanding possible in addition to my technical
-                  support duties.
+                  in-depth understanding possible.
                 </P>
               }
             />
