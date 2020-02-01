@@ -192,12 +192,12 @@ const CV = () => {
               details={
                 <P>
                   To fulfill a requirement of my degree, I completed a four
-                  month internship as a technical support intern for a the
-                  password and identity management software branch of Hitachi.
-                  During my time here, I set up a large virtual network to mimic
-                  a complex client setup and went through the process of
-                  intentionally breaking, debugging, and repairing for the most
-                  in-depth understanding possible.
+                  month internship as a technical support analyst for a the
+                  password and identity management branch of Hitachi. During my
+                  time here, I set up a large virtual network to mimic a complex
+                  client setup and went through the process of intentionally
+                  breaking, debugging, and repairing for the most in-depth
+                  understanding possible.
                 </P>
               }
             />
