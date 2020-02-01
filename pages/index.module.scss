@@ -1,0 +1,84 @@
+@import "../styles/variables";
+
+.Layout {
+  color: $black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.MainWrapper {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: space-between;
+  max-width: 900px;
+  align-self: center;
+  padding: 24px;
+}
+
+.Resume {
+  display: flex;
+  flex-direction: column;
+}
+
+.Header {
+  background-color: $tundora-grey;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  color: $white;
+}
+
+.Main {
+  flex: 1;
+}
+
+.Bold {
+  font-weight: 300;
+}
+
+.MobileContact {
+  display: block;
+}
+
+.DesktopContact {
+  display: none;
+}
+
+.Pink {
+  color: $salmon-pink;
+}
+
+.Green {
+  color: $screamin-green;
+}
+
+.Blue {
+  color: $spray-blue;
+}
+
+@include medium {
+  .Header {
+    margin-bottom: 32px;
+  }
+
+  .MobileContact {
+    display: none;
+  }
+
+  .DesktopContact {
+    display: block;
+  }
+
+  .MainWrapper {
+    flex-direction: row;
+    padding: 0;
+  }
+
+  .Sidebar {
+    width: 30%;
+    margin-right: 50px;
+  }
+}
