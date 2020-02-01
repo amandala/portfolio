@@ -36,7 +36,7 @@ const CV = () => {
                 },
                 {
                   title:
-                    "Working as Live Art Director and Web Master for Impact Music Festival, Intersect Art and Music Festival, and Musibi Rising Art and Bass Gathering"
+                    "Working as Live Art Director and Web Master for Impact Music Festival & Intersect Art and Music Festival"
                 },
                 {
                   title:
