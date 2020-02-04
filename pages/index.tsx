@@ -32,7 +32,7 @@ const CV = () => {
               items={[
                 {
                   title:
-                    "Building an interactive augmented art installation with live aerosol mural painting and visual projection mapping software"
+                    "Building an interactive augmented art installation with live aerosol mural painting and visual projection mapping"
                 },
                 {
                   title:
@@ -73,10 +73,10 @@ const CV = () => {
             <H2>Fun Fact</H2>
             <P small>
               Before transitioning into technology, I was partner in a landscape
-              construction company. In 5 years we transformed a handyman repair
-              sole-proprietorship into an incorporated contracting company
-              specializing in custom landscaping design with net yearly revenue
-              of $100,000 in our last three years of operation.
+              construction company. In just 5 years we transformed a handyman
+              repair sole-proprietorship into an incorporated contracting
+              company specializing in custom landscaping design with net yearly
+              revenue of $100,000 in our last three years of operation.
             </P>
           </Section>
         </div>
@@ -90,12 +90,12 @@ const CV = () => {
             </H2>
             <P>
               I am driven by creating order out of chaos and am constantly
-              seraching for oppotrunities to leverage technology in new and
-              interetsting ways. My core competencies lie in web technologies
-              and I am passionate about projects that exist at the intersection
-              of art and technology. I'm on a mission to create accessible,
+              seraching for opportunities to leverage technology in new and
+              interesting ways. My core competencies lie in web technologies and
+              I am passionate about projects that exist at the intersection of
+              art and technology. I'm on a mission to create accessible,
               interactive, immersive experiences leveraging various mediums both
-              tangible and ingangible.
+              tangible and intangible.
             </P>
           </Section>
           <Section>
@@ -116,7 +116,7 @@ const CV = () => {
                   to my studies, I participated in numerous extra curricular
                   activities including serving as an executive on my program's
                   student society where I helped coordinate and host events for
-                  the students and faculty including hackatons, AR playground
+                  the students and faculty including hackathons, AR playground
                   fundraisers, and student showcase events.
                 </P>
               }
@@ -157,7 +157,7 @@ const CV = () => {
                   My mentorship role was a part time evening position where I
                   assisted students as they progressed through a 10 week
                   intensive web development bootcamp. The curriculum was
-                  iterative and new technologies were often replacing older ones
+                  iterative and new technologies were frequently introduced
                   requiring me to quickly familiarize myself in order to best
                   assist the students. Calgary is a sattelite office from the
                   Toronto based operations so there was ample opportunity for me
@@ -177,7 +177,7 @@ const CV = () => {
                   to connect local startups and small businesses with student
                   freelancers. I made extensive customizations to the automation
                   and workflow features of an existing marketplace framework
-                  build on Wordpress. Although the startup was ultimitely
+                  build on Wordpress. Although the concept ultimitely proved
                   unsuccesful, the opportunity to dive into the startup world
                   birthed my love for the unknown. I also successfully landed
                   RCKTSHP a finalist position in Startup Calgary's Launchpad
@@ -194,10 +194,10 @@ const CV = () => {
                   To fulfill a requirement of my degree, I completed a four
                   month internship as a technical support analyst for a the
                   password and identity management branch of Hitachi. During my
-                  time here, I set up a large virtual network to mimic a complex
-                  client setup and went through the process of intentionally
-                  breaking, debugging, and repairing for the most in-depth
-                  understanding possible.
+                  time there, I set up a large virtual network to mimic a
+                  complex client setup and went through the process of
+                  intentionally breaking, debugging, and repairing for the most
+                  in-depth understanding possible.
                 </P>
               }
             />
