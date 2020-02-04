@@ -59,6 +59,14 @@
   color: $spray-blue;
 }
 
+.Footer {
+  padding: 24px 24px 0 24px;
+  background-color: $tundora-grey;
+  color: $white;
+  display: flex;
+  justify-content: center;
+}
+
 @include medium {
   .Header {
     margin-bottom: 32px;
@@ -74,7 +82,6 @@
 
   .MainWrapper {
     flex-direction: row;
-    padding: 0;
   }
 
   .Sidebar {
