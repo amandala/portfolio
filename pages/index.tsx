@@ -226,10 +226,10 @@ const ContactSection = () => (
     <List
       items={[
         { title: "dev@portad.ca", href: "mailto:dev@portad.ca" },
-        { title: "github.com/amandala", href: "github.com/amandala" },
+        { title: "github.com/amandala", href: "http://github.com/amandala" },
         {
           title: "linkedin.com/in/ahayn465",
-          href: "linkedin.com/in/ahayn465"
+          href: "http://linkedin.com/in/ahayn465"
         }
       ]}
     />
