@@ -67,7 +67,7 @@ const CV = () => {
                 },
                 {
                   title:
-                    "Leveraging technology to modernize property management by building a residential property management tool - think AirBnB meets on demand handyman services."
+                    "Leveraging technology to modernize property management by building a residential property management tool - think AirBnB meets on demand handyman services"
                 }
               ]}
             />
@@ -232,7 +232,7 @@ const CV = () => {
         </div>
       </div>
       <footer className={styles.Footer}>
-        <P>{`Made with ♡ by Amanda Haynes. Powered by Next.js.`}</P>
+        <P>{`Made with ♡  by Amanda Haynes. Powered by Next.js.`}</P>
       </footer>
     </div>
   );
