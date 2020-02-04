@@ -6,7 +6,7 @@ type PropsType = {
   title: string;
   location: string;
   date: string;
-  details: ReactElement;
+  details: string;
 };
 
 const Entry = ({ title, location, date, details }: PropsType) => (

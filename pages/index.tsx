@@ -133,9 +133,7 @@ const CV = () => {
               title="Bachellor of Computer Information Systems"
               location="Mount Royal University"
               date="2011 - 2016"
-              details={
-                <P>
-                  The CIS program teaches the fundamentals of object oriented
+              details="The CIS program teaches the fundamentals of object oriented
                   and functional programming, server and database
                   administration, QA, and project management. During my time at
                   Mount Royal I developed applications using various languages
@@ -144,9 +142,7 @@ const CV = () => {
                   activities including serving as an executive on my program's
                   student society where I helped coordinate and host events for
                   the students and faculty including hackathons, AR playground
-                  fundraisers, and student showcase events.
-                </P>
-              }
+                  fundraisers, and student showcase events."
             />
           </Section>
           <Section>
@@ -157,9 +153,7 @@ const CV = () => {
               title="Application Engineer"
               location="Versett"
               date="2016 - Current"
-              details={
-                <P>
-                  My role as an Application Engineer at Versett has me switching
+              details="My role as an Application Engineer at Versett has me switching
                   between strategic consulting and UX execution functions as I
                   help design and build solutions for clients in enterprise,
                   startup, and venture domains. I leverage the most modern
@@ -171,17 +165,13 @@ const CV = () => {
                   mobile career coach applications and many more. The wide range
                   of projects I have been exposed to at Versett has broadened my
                   toolbealt and honed my ability to learn new skills and deep
-                  dive into new problem domains with ease.
-                </P>
-              }
+                  dive into new problem domains with ease."
             />
             <Entry
               title="Web Development Bootcamp Mentor"
               location="Lighthouse Labs"
               date="2016 - 2018"
-              details={
-                <P>
-                  My mentorship role was a part time evening position where I
+              details="My mentorship role was a part time evening position where I
                   assisted students as they progressed through a 10 week
                   intensive web development bootcamp. The curriculum was
                   iterative and new technologies were frequently introduced
@@ -189,17 +179,13 @@ const CV = () => {
                   assist the students. Calgary is a sattelite office from the
                   Toronto based operations so there was ample opportunity for me
                   to help coordinate and facilitate events such as demo days,
-                  showcase events, and employer meet-and-greet sessions.
-                </P>
-              }
+                  showcase events, and employer meet-and-greet sessions."
             />
             <Entry
               title="Web Developer - LAMP Stack"
               location="RCKTSHP"
               date="2015 - 2016"
-              details={
-                <P>
-                  I was brought on as a contractor to help a local student
+              details="I was brought on as a contractor to help a local student
                   crowdfunding startup pivot to a freelancer marketplace aiming
                   to connect local startups and small businesses with student
                   freelancers. I made extensive customizations to the automation
@@ -208,25 +194,19 @@ const CV = () => {
                   unsuccesful, the opportunity to dive into the startup world
                   birthed my love for the unknown. I also successfully landed
                   RCKTSHP a finalist position in Startup Calgary's Launchpad
-                  Accelerator pitch competition on just two days notice!
-                </P>
-              }
+                  Accelerator pitch competition on just two days notice!"
             />
             <Entry
               title="Technical Support Analyst"
               location="Hitachi ID Systems"
               date="2014"
-              details={
-                <P>
-                  To fulfill a requirement of my degree, I completed a four
+              details="To fulfill a requirement of my degree, I completed a four
                   month internship as a technical support analyst for a the
                   password and identity management branch of Hitachi. During my
                   time there, I set up a large virtual network to mimic a
                   complex client setup and went through the process of
                   intentionally breaking, debugging, and repairing for the most
-                  in-depth understanding possible.
-                </P>
-              }
+                  in-depth understanding possible."
             />
           </Section>
         </div>

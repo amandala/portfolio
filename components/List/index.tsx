@@ -13,7 +13,7 @@ const List = ({ items }: PropsType) => {
   return (
     <ul className={cx(styles.List, { [styles.ListDots]: useDots })}>
       {items.map(item => (
-        <li className={styles.ListItem}>
+        <li key={item.title} className={styles.ListItem}>
           {item.href ? (
             <a className={styles.ListLink} href={item.href} target="_blank">
               {item.title}
