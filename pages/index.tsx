@@ -227,7 +227,6 @@ const Blue = ({ children }) => <span className={styles.Blue}>{children}</span>;
 const ContactSection = () => (
   <Section>
     <H2>Contact</H2>
-    <List items={[{ title: "403-462-1591" }]} />
     <List
       items={[
         { title: "dev@portad.ca", href: "mailto:dev@portad.ca" },
@@ -235,6 +234,10 @@ const ContactSection = () => (
         {
           title: "linkedin.com/in/ahayn465",
           href: "http://linkedin.com/in/ahayn465"
+        },
+        {
+          title: "instagram.com/a_mandala_/",
+          href: "mhttps://www.instagram.com/a_mandala_/"
         }
       ]}
     />
