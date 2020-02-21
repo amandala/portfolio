@@ -236,8 +236,8 @@ const ContactSection = () => (
           href: "http://linkedin.com/in/ahayn465"
         },
         {
-          title: "instagram.com/a_mandala_/",
-          href: "mhttps://www.instagram.com/a_mandala_/"
+          title: "instagram.com/a_mandala_",
+          href: "https://www.instagram.com/a_mandala_"
         }
       ]}
     />
