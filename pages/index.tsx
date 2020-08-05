@@ -59,16 +59,16 @@ const CV = () => {
               items={[
                 {
                   title:
-                    "Building an interactive augmented art installation with live aerosol mural painting and visual projection mapping"
+                    "Building an interactive augmented art installation with live aerosol mural painting and visual projection mapping",
                 },
                 {
                   title:
-                    "Working as Live Art Director and Web Master for Impact Music Festival & Intersect Art and Music Festival"
+                    "Working as Live Art Director and Web Master for Impact Music Festival & Intersect Art and Music Festival",
                 },
                 {
                   title:
-                    "Leveraging technology to modernize property management by building a residential property management tool - think AirBnB meets on demand handyman services"
-                }
+                    "Leveraging technology to modernize property management by building a residential property management tool - think AirBnB meets on demand handyman services",
+                },
               ]}
             />
           </Section>
@@ -78,21 +78,21 @@ const CV = () => {
               items={[
                 {
                   title: "ATB Skills Visualization Application",
-                  href: "http://atb-skills.herokuapp.com/"
+                  href: "http://atb-skills.herokuapp.com/",
                 },
                 {
                   title: "Live Art Installation",
                   href:
-                    "https://www.flickr.com/photos/184798290@N03/albums/72157711177933831"
+                    "https://www.flickr.com/photos/184798290@N03/albums/72157711177933831",
                 },
                 {
                   title: "Versett Website",
-                  href: "https://versett.com/"
+                  href: "https://versett.com/",
                 },
                 {
                   title: "Custom E-commerce website",
-                  href: "https://www.bhd.ca/"
-                }
+                  href: "https://www.bhd.ca/",
+                },
               ]}
             />
           </Section>
@@ -229,16 +229,19 @@ const ContactSection = () => (
     <H2>Contact</H2>
     <List
       items={[
-        { title: "dev@portad.ca", href: "mailto:dev@portad.ca" },
+        {
+          title: "amandala1086@gmail.com",
+          href: "mailto:amandala1086@gmail.com",
+        },
         { title: "github.com/amandala", href: "http://github.com/amandala" },
         {
           title: "linkedin.com/in/ahayn465",
-          href: "http://linkedin.com/in/ahayn465"
+          href: "http://linkedin.com/in/ahayn465",
         },
         {
           title: "instagram.com/a_mandala_",
-          href: "https://www.instagram.com/a_mandala_"
-        }
+          href: "https://www.instagram.com/a_mandala_",
+        },
       ]}
     />
   </Section>
