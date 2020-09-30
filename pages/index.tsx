@@ -63,7 +63,7 @@ const CV = () => {
                 },
                 {
                   title:
-                    "Organizing another block-long graffiti and street art jam for sprint 2021",
+                    "Organizing another block-long graffiti and street art jam for spring 2021",
                 },
 
                 {
