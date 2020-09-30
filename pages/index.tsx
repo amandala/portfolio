@@ -59,15 +59,20 @@ const CV = () => {
               items={[
                 {
                   title:
+                    "Designing and developing an online presence for Big Kitty Mag - an underground arts and culture magazine showcasing Calgary's street life.",
+                },
+                {
+                  title:
+                    "Organizing another block-long graffiti and street art jam for sprint 2021",
+                },
+
+                {
+                  title:
                     "Building an interactive augmented art installation with live aerosol mural painting and visual projection mapping",
                 },
                 {
                   title:
                     "Working as Live Art Director and Web Master for Impact Music Festival & Intersect Art and Music Festival",
-                },
-                {
-                  title:
-                    "Leveraging technology to modernize property management by building a residential property management tool - think AirBnB meets on demand handyman services",
                 },
               ]}
             />
@@ -81,17 +86,16 @@ const CV = () => {
                   href: "http://atb-skills.herokuapp.com/",
                 },
                 {
-                  title: "Live Art Installation",
-                  href:
-                    "https://www.flickr.com/photos/184798290@N03/albums/72157711177933831",
+                  title: "Live Art Installations",
+                  href: "https://www.flickr.com/photos/184798290@N03/albums",
                 },
                 {
-                  title: "Versett Website",
-                  href: "https://versett.com/",
+                  title: "Digital Impact - Charity Music Festival",
+                  href: "https://www.impactfestival.ca",
                 },
                 {
-                  title: "Custom E-commerce website",
-                  href: "https://www.bhd.ca/",
+                  title: "Intersessions Wesbite",
+                  href: "https://www.intersectamf.com",
                 },
               ]}
             />
