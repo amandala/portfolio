@@ -82,8 +82,8 @@ const CV = () => {
             <List
               items={[
                 {
-                  title: "ATB Skills Visualization Application",
-                  href: "http://atb-skills.herokuapp.com/",
+                  title: "Big Kitty Magazine",
+                  href: "http://bigkittymag.com",
                 },
                 {
                   title: "Live Art Installations",
