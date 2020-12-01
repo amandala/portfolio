@@ -83,18 +83,18 @@ const CV = () => {
               items={[
                 {
                   title: "Big Kitty Magazine",
-                  href: "http://bigkittymag.com",
+                  href: "http://bigkittymag.com ",
                 },
                 {
                   title: "Live Art Installations",
                   href: "https://www.flickr.com/photos/184798290@N03/albums",
                 },
                 {
-                  title: "Digital Impact - Charity Music Festival",
+                  title: "Digital Impact",
                   href: "https://www.impactfestival.ca",
                 },
                 {
-                  title: "Intersessions Wesbite",
+                  title: "Intersessions Website",
                   href: "https://www.intersectamf.com",
                 },
               ]}
