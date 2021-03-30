@@ -1,5 +1,4 @@
 import React from "react";
-import cx from "classnames";
 
 import List from "../components/List";
 import Entry from "../components/Entry";
@@ -93,10 +92,6 @@ const CV = () => {
                   title: "Digital Impact",
                   href: "https://www.impactfestival.ca",
                 },
-                {
-                  title: "Intersessions Website",
-                  href: "https://www.intersectamf.com",
-                },
               ]}
             />
           </Section>
@@ -154,14 +149,14 @@ const CV = () => {
               <Green>Exp</Green>erience
             </H2>
             <Entry
-              title="Application Engineer"
+              title="Senior Product Engineer & Team Lead"
               location="Versett"
               date="2016 - Current"
-              details="My role as an Application Engineer at Versett has me switching
+              details="My role as an Senior Product Engineer at Versett has me switching
                   between strategic consulting and UX execution functions as I
                   help design and build solutions for clients in enterprise,
                   startup, and venture domains. I leverage the most modern
-                  Javascript web technologies to build accessible, secure,
+                  Javascript web technologies to build accessible, secure, and
                   performant, web and mobile applications. Together with my
                   team, we have delivered scalable customized solutions
                   including cryptocurrency exchange platforms, business travel
