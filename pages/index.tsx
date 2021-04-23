@@ -218,9 +218,7 @@ const CV = () => {
                   to connect local startups and small businesses with student
                   freelancers. I made extensive customizations to the automation
                   and workflow features of an existing marketplace framework
-                  build on Wordpress. Although the concept ultimately proved
-                  unsuccessful, the opportunity to dive into the startup world
-                  birthed my love for the unknown. I was given the opportunity to pitch RCKTSHP
+                  build on Wordpress. I was given the opportunity to pitch RCKTSHP
                   to the A100 and land us a finalist position in Startup Calgary's Launchpad
                   Accelerator pitch competition with just two days notice to prepare."
             />
