@@ -41,7 +41,7 @@ const CV = () => {
         <H1>
           Amanda<span className={styles.Bold}>Haynes</span>
         </H1>
-        <P>Software Engineer & Live Art Director</P>
+        <P>Software Engineer & Creative Director</P>
       </div>
       <div className={styles.MainWrapper}>
         <div className={styles.Sidebar}>
@@ -64,7 +64,10 @@ const CV = () => {
                   title:
                     "Organizing another block-long graffiti and street art jam for spring 2021",
                 },
-
+                {
+                  title:
+                    "Assembling a collective of artists interested in the NFT space to monetize digital representations of tangible art",
+                },
                 {
                   title:
                     "Building an interactive augmented art installation with live aerosol mural painting and visual projection mapping",
@@ -86,10 +89,10 @@ const CV = () => {
                 },
                 {
                   title: "Live Art Installations",
-                  href: "https://www.flickr.com/photos/184798290@N03/albums",
+                  href: "https://linktr.ee/mixedmanifest",
                 },
                 {
-                  title: "Digital Impact",
+                  title: "Digital Impact Charity Music Festival",
                   href: "https://www.impactfestival.ca",
                 },
               ]}
@@ -116,7 +119,7 @@ const CV = () => {
             </H2>
             <P>
               I am driven by creating order out of chaos and am constantly
-              seraching for opportunities to leverage technology in new and
+              searching for opportunities to leverage technology in new and
               interesting ways. My core competencies lie in web technologies and
               I am passionate about projects that exist at the intersection of
               art and technology. I'm on a mission to create accessible,
@@ -129,7 +132,7 @@ const CV = () => {
               <Pink>Edu</Pink>cation
             </H2>
             <Entry
-              title="Bachellor of Computer Information Systems"
+              title="Bachelor of Computer Information Systems"
               location="Mount Royal University"
               date="2011 - 2016"
               details="The CIS program teaches the fundamentals of object oriented
@@ -151,6 +154,7 @@ const CV = () => {
             <Entry
               title="Senior Product Engineer & Team Lead"
               location="Versett"
+              link="www.versett.com"
               date="2016 - Current"
               details="My role as an Senior Product Engineer at Versett has me switching
                   between strategic consulting and UX execution functions as I
@@ -167,6 +171,13 @@ const CV = () => {
                   dive into new problem domains with ease."
             />
             <Entry
+              title="Founder & Creative Director"
+              location="Mixed Manifest"
+              link="https://linktr.ee/mixedmanifest"
+              date="2019 - Current"
+              details=""
+            />
+            <Entry
               title="Web Development Bootcamp Mentor"
               location="Lighthouse Labs"
               date="2016 - 2018"
@@ -175,7 +186,7 @@ const CV = () => {
                   intensive web development bootcamp. The curriculum was
                   iterative and new technologies were frequently introduced
                   requiring me to quickly familiarize myself in order to best
-                  assist the students. Calgary is a sattelite office from the
+                  assist the students. Calgary is a satellite office from the
                   Toronto based operations so there was ample opportunity for me
                   to help coordinate and facilitate events such as demo days,
                   showcase events, and employer meet-and-greet sessions."
@@ -189,8 +200,8 @@ const CV = () => {
                   to connect local startups and small businesses with student
                   freelancers. I made extensive customizations to the automation
                   and workflow features of an existing marketplace framework
-                  build on Wordpress. Although the concept ultimitely proved
-                  unsuccesful, the opportunity to dive into the startup world
+                  build on Wordpress. Although the concept ultimately proved
+                  unsuccessful, the opportunity to dive into the startup world
                   birthed my love for the unknown. I also successfully landed
                   RCKTSHP a finalist position in Startup Calgary's Launchpad
                   Accelerator pitch competition on just two days notice!"
@@ -238,8 +249,8 @@ const ContactSection = () => (
           href: "http://linkedin.com/in/ahayn465",
         },
         {
-          title: "instagram.com/a_mandala_",
-          href: "https://www.instagram.com/a_mandala_",
+          title: "instagram.com/mixedmanifest",
+          href: "https://www.instagram.com/mixedmanifest",
         },
       ]}
     />

@@ -1,0 +1,19 @@
+@import "../../styles/variables";
+
+.Website {
+  font-size: 14px;
+  color: $tundora-grey;
+  font-family: $Raleway;
+  padding-left: 14px;
+  text-decoration: none;
+
+  &:hover,
+  :focus {
+    color: $salmon-pink;
+  }
+}
+
+.LinkWrapper {
+  display: flex;
+  align-items: baseline;
+}
