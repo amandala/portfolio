@@ -227,6 +227,7 @@ const CV = () => {
             <Entry
               title="Technical Support Analyst"
               location="Hitachi ID Systems"
+              link="www.hitachi-id.com"
               date="2014"
               details="To fulfill a requirement of my degree, I completed a four
                   month internship as a technical support analyst for a the
