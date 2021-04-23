@@ -179,9 +179,9 @@ const CV = () => {
               small charity music festival and turned into a mission to bring together
               a community of artists and creatives to collaborate on massive live art installations
               live streamed online for the world to participate. I work as a consultant teaming up with various
-              event production companies to create live mural installations set to live music paired with custom
+              event production companies to create live aerosol art installations set to live music paired with custom
               event websites that include Twitch channel embeds, discord chat functionality, and digital art galleries.
-              I'm currently dep diving into the NFT space to monetize digital representations of the tangible art to
+              I'm currently deep diving into the NFT space to monetize digital representations of the tangible art to
               bring profit to the artists that donate their time and skills to the installations. "
             />
             <Entry
