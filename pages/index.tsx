@@ -193,8 +193,9 @@ const CV = () => {
               location="Big Kitty Magazine"
               link="www.bigkittymag.com"
               date="2020 - Current"
-              details="I'm creating a digital presence and contributing as a writer for Calgary' newest 
-              arts, music, and culture magazine. Big Kitty Magazine strives to be a safe,
+              details="I'm creating a digital presence and contributing as a writer for Calgary's newest 
+              arts, music, and culture magazine. I've built the website leveraging NextJS and Prismic CMS
+              for an easy to update and SEO friendly online experience. Big Kitty Magazine strives to be a safe,
               inclusive, and accessible publication for all marginalized voices including LGBTQ2S+, BIMPOC communities."
             />
             <Entry
