@@ -18,7 +18,7 @@ const Entry = ({ title, location, date, details, link }: PropsType) => (
       <div className={styles.LinkWrapper}>
         <H4>{location}</H4>
         {link ? (
-          <a className={styles.Website} href={link}>
+          <a className={styles.Website} href={`http://${link}`} target="_blank">
             {link}
           </a>
         ) : null}

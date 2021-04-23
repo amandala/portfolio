@@ -173,13 +173,30 @@ const CV = () => {
             <Entry
               title="Founder & Creative Director"
               location="Mixed Manifest"
-              link="https://linktr.ee/mixedmanifest"
+              link="linktr.ee/mixedmanifest"
               date="2019 - Current"
-              details=""
+              details="It started as a volunteer position as Art Director at a 
+              small charity music festival and turned into a mission to bring together
+              a community of artists and creatives to collaborate on massive live art installations
+              live streamed online for the world to participate. I work as a consultant teaming up with various
+              event production companies to create live mural installations set to live music paired with custom
+              event websites that include Twitch channel embeds, discord chat functionality, and digital art galleries.
+              I'm currently dep diving into the NFT space to monetize digital representations of the tangible art to
+              bring profit to the artists that donate their time and skills to the installations. "
+            />
+            <Entry
+              title="Developer & Contributor"
+              location="Big Kitty Magazine"
+              link="www.bigkittymag.com"
+              date="2020 - Current"
+              details="I'm creating a digital presence and contributing as a writer for Calgary' newest 
+              arts, music, and culture magazine. Big Kitty Magazine strives to be a safe,
+              inclusive, and accessible publication for all marginalized voices including LGBTQ2S+, BIMPOC communities."
             />
             <Entry
               title="Web Development Bootcamp Mentor"
               location="Lighthouse Labs"
+              link="www.lighthouselabs.ca"
               date="2016 - 2018"
               details="My mentorship role was a part time evening position where I
                   assisted students as they progressed through a 10 week
@@ -194,6 +211,7 @@ const CV = () => {
             <Entry
               title="Web Developer - LAMP Stack"
               location="RCKTSHP"
+              link="tinyurl.com/rcktshp-media"
               date="2015 - 2016"
               details="I was brought on as a contractor to help a local student
                   crowdfunding startup pivot to a freelancer marketplace aiming
