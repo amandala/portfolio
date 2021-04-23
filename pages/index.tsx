@@ -41,7 +41,7 @@ const CV = () => {
         <H1>
           Amanda<span className={styles.Bold}>Haynes</span>
         </H1>
-        <P>Senior Product Engineer & Creative Director</P>
+        <P>Senior Developer & Creative Director</P>
       </div>
       <div className={styles.MainWrapper}>
         <div className={styles.Sidebar}>
