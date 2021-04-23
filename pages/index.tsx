@@ -209,7 +209,7 @@ const CV = () => {
                   showcase events, and employer meet-and-greet sessions."
             />
             <Entry
-              title="Web Developer - LAMP Stack"
+              title="Web Developer"
               location="RCKTSHP"
               link="tinyurl.com/rcktshp-media"
               date="2015 - 2016"
