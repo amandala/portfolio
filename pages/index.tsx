@@ -157,7 +157,7 @@ const CV = () => {
               link="www.versett.com"
               date="2016 - Current"
               details="My role as an Senior Product Engineer at Versett has me switching
-                  between strategic consulting and UX execution functions as I
+                  between strategic consulting and UX development as I
                   help design and build solutions for clients in enterprise,
                   startup, and venture domains. I leverage the most modern
                   Javascript web technologies to build accessible, secure, and
@@ -220,9 +220,9 @@ const CV = () => {
                   and workflow features of an existing marketplace framework
                   build on Wordpress. Although the concept ultimately proved
                   unsuccessful, the opportunity to dive into the startup world
-                  birthed my love for the unknown. I also successfully landed
-                  RCKTSHP a finalist position in Startup Calgary's Launchpad
-                  Accelerator pitch competition on just two days notice!"
+                  birthed my love for the unknown. I was given the opportunity to pitch RCKTSHP
+                  to the A100 and land us a finalist position in Startup Calgary's Launchpad
+                  Accelerator pitch competition with just two days notice to prepare."
             />
             <Entry
               title="Technical Support Analyst"
