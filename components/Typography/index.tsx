@@ -6,6 +6,7 @@ import styles from "./index.module.scss";
 type TypographyType = {
   children: any;
   small?: boolean;
+  className?: string;
 };
 
 export const H1 = ({ children }: TypographyType) => (
@@ -23,6 +24,8 @@ export const H4 = ({ children }: TypographyType) => (
 export const H5 = ({ children }: TypographyType) => (
   <h5 className={styles.H5}>{children}</h5>
 );
-export const P = ({ children, small }: TypographyType) => (
-  <p className={cx(styles.P, { [styles.PSmall]: small })}>{children}</p>
+export const P = ({ children, small, className }: TypographyType) => (
+  <p className={cx(styles.P, className, { [styles.PSmall]: small })}>
+    {children}
+  </p>
 );

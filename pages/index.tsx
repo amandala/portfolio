@@ -8,6 +8,7 @@ import Section from "../components/Section";
 import styles from "./index.module.scss";
 
 import { useEffect, useCallback, useRef } from "react";
+import { scrypt } from "crypto";
 
 // React hook for delaying calls with time
 // returns callback to use for cancelling
@@ -41,7 +42,10 @@ const CV = () => {
         <H1>
           Amanda<span className={styles.Bold}>Haynes</span>
         </H1>
-        <P>Senior Developer & Creative Director</P>
+        <P className={styles.Title}>
+          Senior Developer and Creative Director thriving at the intersection of
+          art and technology
+        </P>
       </div>
       <div className={styles.MainWrapper}>
         <div className={styles.Sidebar}>
