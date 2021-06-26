@@ -156,10 +156,21 @@ const CV = () => {
               <Green>Exp</Green>erience
             </H2>
             <Entry
+              title="Senior Consultant"
+              location="Deloitte Digital - D Studio"
+              link="www.deloittedigital.com/us/en.html"
+              date="May 2021 - Current"
+              details="I'm currently working as a Senior Consultant staffed on a 
+              project for a global oil & gas company helping the team iterate on new 
+              features of their mobile app in the role of Product Owner. I'm also volunteering 
+              on a side-of-desk project for Ignite Calgary building out their website and blog 
+              using NextJS and Prismic."
+            />
+            <Entry
               title="Senior Product Engineer & Team Lead"
               location="Versett"
               link="www.versett.com"
-              date="2016 - Current"
+              date="May 2016 - May 2021"
               details="My role as an Senior Product Engineer at Versett has me switching
                   between strategic consulting and UX development as I
                   help design and build solutions for clients in enterprise,
@@ -196,7 +207,7 @@ const CV = () => {
               details="I'm creating a digital presence and contributing as a writer for Calgary's newest 
               arts, music, and culture magazine. I've built the website leveraging NextJS and Prismic CMS
               for an easy to update and SEO friendly online experience. Big Kitty Magazine strives to be a safe,
-              inclusive, and accessible publication for all marginalized voices including LGBTQ2S+, BIMPOC communities."
+              inclusive, and accessible publication for all marginalized voices including LGBTQ2S+ and BIMPOC communities."
             />
             <Entry
               title="Web Development Bootcamp Mentor"
