@@ -165,9 +165,9 @@ const CV = () => {
               searching for opportunities to leverage technology in new and
               interesting ways. My core competencies lie in web technologies and
               I am passionate about projects that exist at the intersection of
-              art and technology. I'm on a mission to create accessible,
-              interactive, immersive experiences leveraging various mediums both
-              tangible and intangible.
+              art and technology. I'm on a mission to create collaborative,
+              accessible, interactive, and immersive experiences leveraging
+              various mediums both tangible and intangible.
             </P>
           </Section>
           <Section>
