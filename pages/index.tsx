@@ -325,6 +325,10 @@ const ContactSection = () => (
           title: "instagram.com/mixedmanifest",
           href: "https://www.instagram.com/mixedmanifest",
         },
+        {
+          title: "linktr.ee/mixedmanifest",
+          href: "https://linktr.ee/mixedmanifest",
+        },
       ]}
     />
   </Section>
