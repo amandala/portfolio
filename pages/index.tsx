@@ -53,10 +53,32 @@ const CV = () => {
             <ContactSection />
           </span>
           <Section>
+            <H2>Favorite Tech Stack</H2>
+            <List
+              items={[
+                {
+                  title: "React / NextJS",
+                },
+                {
+                  title: "SCSS Modules",
+                },
+                {
+                  title: "Typescript",
+                },
+                {
+                  title: "NodeJS",
+                },
+                {
+                  title: "Mongo DB",
+                },
+              ]}
+            />
+          </Section>
+          <Section>
             <H2>Current Projects</H2>
             <P small>
               I'm always up to something! Some of my current side projects
-              include:
+              through my side company Mixed Manifest include:
             </P>
             <List
               items={[
@@ -66,19 +88,27 @@ const CV = () => {
                 },
                 {
                   title:
-                    "Organizing another block-long graffiti and street art jam for spring 2021",
+                    "Creating a marketing website for Prom Night Skate all girls boardsports club",
                 },
                 {
                   title:
-                    "Assembling a collective of artists interested in the NFT space to monetize digital representations of tangible art",
+                    "Organizing another block-long graffiti and street art jam for summer 2021",
                 },
                 {
                   title:
-                    "Building an interactive augmented art installation with live aerosol mural painting and visual projection mapping",
+                    "Facilitating another indoor graffiti jam with 30+ artists and over 8500sqft of murals in fall 2021",
+                },
+                {
+                  title:
+                    "Building an interactive augmented art installation with data visualization, live aerosol mural painting, and visual projection mapping",
                 },
                 {
                   title:
                     "Working as Live Art Director and Web Master for Impact Music Festival & Intersect Art and Music Festival",
+                },
+                {
+                  title:
+                    "Collaboarting with United Universal Collective to revamp their online presence for collective members",
                 },
               ]}
             />
