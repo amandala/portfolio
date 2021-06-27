@@ -52,6 +52,7 @@ const CV = () => {
           <span className={styles.DesktopContact}>
             <ContactSection />
           </span>
+
           <Section>
             <H2>Favorite Tech Stack</H2>
             <List
@@ -141,6 +142,14 @@ const CV = () => {
               company specializing in custom landscaping design with net yearly
               revenue of $100,000 in our last three years of operation.
             </P>
+          </Section>
+          <Section>
+            <H2>Profile Photo</H2>
+            <img
+              className={styles.Profile}
+              src="/profile-min.jpg"
+              alt="Amanda smiling in the forest"
+            />
           </Section>
         </div>
         <div className={styles.Main}>
