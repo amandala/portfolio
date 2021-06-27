@@ -235,7 +235,7 @@ const CV = () => {
               live streamed online for the world to participate. I work as a consultant teaming up with various
               event production companies to create live aerosol art installations set to live music paired with custom
               event websites that include Twitch channel embeds, discord chat functionality, and digital art galleries.
-              I'm currently planning two community driven public art projects, one independently, and one in collaboration with
+              For this summer, I'm planning two community driven public art projects, one independently, and one in collaboration with
               the Bowness BIA with help from the Ripples Grant and ActivateYYC Grant. I'm also working though logistics for two
               graffiti jam exhibits taking place at music festivals this summer."
             />
