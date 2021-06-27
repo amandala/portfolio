@@ -197,7 +197,7 @@ const CV = () => {
             <Entry
               title="Senior Consultant"
               location="Deloitte Digital - D Studio"
-              link="www.deloittedigital.com/us/en.html"
+              link="www.deloittedigital.com"
               date="May 2021 - Current"
               details="I'm currently working as a Senior Consultant staffed on a 
               project for a global oil & gas company helping the team iterate on new 
