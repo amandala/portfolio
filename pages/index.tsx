@@ -120,7 +120,7 @@ const CV = () => {
               items={[
                 {
                   title: "Big Kitty Magazine",
-                  href: "http://bigkittymag.com ",
+                  href: "http://bigkittymag.com",
                 },
                 {
                   title: "Live Art Installations",
