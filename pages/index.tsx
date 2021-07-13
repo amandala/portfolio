@@ -123,6 +123,14 @@ const CV = () => {
                   href: "http://bigkittymag.com",
                 },
                 {
+                  title: "Prom Night Skate",
+                  href: "http://promnightgirls.com",
+                },
+                {
+                  title: "Ignite Calgary",
+                  href: "http://www.ignitecalgary.ca/",
+                },
+                {
                   title: "Live Art Installations",
                   href: "https://linktr.ee/mixedmanifest",
                 },
