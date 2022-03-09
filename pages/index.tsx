@@ -43,8 +43,8 @@ const CV = () => {
           Amanda<span className={styles.Bold}>Haynes</span>
         </H1>
         <P className={styles.Title}>
-          Software Developer and Creative Director thriving at the intersection
-          of art and technology
+          Lead Software Developer and Creative Director thriving at the
+          intersection of Art and Technology
         </P>
       </div>
       <div className={styles.MainWrapper}>
@@ -58,20 +58,20 @@ const CV = () => {
             <List
               items={[
                 {
-                  title: "React / NextJS",
+                  title: "React / NextJS"
                 },
                 {
-                  title: "SCSS Modules",
+                  title: "SCSS Modules"
                 },
                 {
-                  title: "Typescript",
+                  title: "Typescript"
                 },
                 {
-                  title: "NodeJS",
+                  title: "NodeJS"
                 },
                 {
-                  title: "Mongo DB",
-                },
+                  title: "Mongo DB"
+                }
               ]}
             />
           </Section>
@@ -85,32 +85,28 @@ const CV = () => {
               items={[
                 {
                   title:
-                    "Designing and developing an online presence for Big Kitty Mag - an underground arts and culture magazine showcasing Calgary's street life.",
+                    "Designing and developing an online presence for Big Kitty Mag - an underground arts and culture magazine showcasing Calgary's street life."
                 },
                 {
                   title:
-                    "Creating a marketing website for Prom Night Skate all girls boardsports club",
+                    "Creating a marketing website for Prom Night Skate all girls boardsports club"
                 },
                 {
                   title:
-                    "Organizing another block-long graffiti and street art jam for summer 2021",
+                    "Organizing another block-long graffiti and street art jam for summer 2022"
                 },
                 {
                   title:
-                    "Facilitating another indoor graffiti jam with 30+ artists and over 8500sqft of murals in fall 2021",
+                    "Building an interactive augmented art installation with data visualization, live aerosol mural painting, and visual projection mapping"
                 },
                 {
                   title:
-                    "Building an interactive augmented art installation with data visualization, live aerosol mural painting, and visual projection mapping",
+                    "Volunteering as Live Art Director for Impact Music Festival & Intersect Art and Music Festival"
                 },
                 {
                   title:
-                    "Working as Live Art Director and Web Master for Impact Music Festival & Intersect Art and Music Festival",
-                },
-                {
-                  title:
-                    "Collaboarting with United Universal Collective to revamp their online presence for collective members",
-                },
+                    "Collaboarting with United Universal Collective to revamp their online presence for collective members"
+                }
               ]}
             />
           </Section>
@@ -120,24 +116,20 @@ const CV = () => {
               items={[
                 {
                   title: "Big Kitty Magazine",
-                  href: "http://bigkittymag.com",
+                  href: "http://bigkittymag.com"
                 },
                 {
                   title: "Prom Night Skate",
-                  href: "http://promnightgirls.com",
+                  href: "http://promnightgirls.com"
                 },
                 {
                   title: "Ignite Calgary",
-                  href: "http://www.ignitecalgary.ca/",
+                  href: "http://www.ignitecalgary.ca/"
                 },
                 {
                   title: "Live Art Installations",
-                  href: "https://linktr.ee/mixedmanifest",
-                },
-                {
-                  title: "Digital Impact Charity Music Festival",
-                  href: "https://www.impactfestival.ca",
-                },
+                  href: "https://linktr.ee/mixedmanifest"
+                }
               ]}
             />
           </Section>
@@ -148,7 +140,7 @@ const CV = () => {
               construction company. In just 5 years we transformed a handyman
               repair sole-proprietorship into an incorporated contracting
               company specializing in custom landscaping design with net yearly
-              revenue of $100,000 in our last three years of operation.
+              revenue of $100,000.
             </P>
           </Section>
           <Section>
@@ -177,6 +169,11 @@ const CV = () => {
               accessible, interactive, and immersive experiences leveraging
               various mediums both tangible and intangible.
             </P>
+            <P>
+              I thrive in environments where I can collaborate closely with
+              business stakeholders, UX designers, and developers to implement
+              design system driven user interfaces.
+            </P>
           </Section>
           <Section>
             <H2>
@@ -203,14 +200,12 @@ const CV = () => {
               <Green>Exp</Green>erience
             </H2>
             <Entry
-              title="Senior Consultant"
+              title="Senior Consultant & Team Lead"
               location="Deloitte Digital - D Studio"
               link="www.deloittedigital.com"
               date="May 2021 - Current"
-              details="I'm currently working as a Senior Consultant staffed on a 
-              project for a global oil & gas company helping the team iterate on new 
-              features of their mobile app in the role of Product Owner. I'm also volunteering 
-              on a side-of-desk project for Ignite Calgary building out their website and blog 
+              details="I'm currently working as a Team Lead on a personal online banking project. My team is responsible for re-writing legacy code to implement a fresh design system and achieve functional parity with the legacy system. I'm also volunteering 
+              on a side-of-desk project for Ignite Calgary building their website and blog 
               using NextJS and Prismic."
             />
             <Entry
@@ -244,7 +239,7 @@ const CV = () => {
               event production companies to create live aerosol art installations set to live music paired with custom
               event websites that include Twitch channel embeds, discord chat functionality, and digital art galleries.
               For this summer, I'm planning two community driven public art projects, one independently, and one in collaboration with
-              the Bowness BIA with help from the Ripples Grant and ActivateYYC Grant. I'm also working though logistics for two
+              the Bowness BIA with help from the Ripples Grant and ActivateYYC Grant. I'm also working to coordinate and implement two
               graffiti jam exhibits taking place at music festivals this summer."
             />
             <Entry
@@ -255,7 +250,7 @@ const CV = () => {
               details="I'm creating a digital presence and contributing as a writer for Calgary's newest 
               arts, music, and culture magazine. I've built the website leveraging NextJS and Prismic CMS
               for an easy to update and SEO friendly online experience. Big Kitty Magazine strives to be a safe,
-              inclusive, and accessible publication for all marginalized voices including LGBTQ2S+ and BIMPOC communities."
+              inclusive, and accessible publication for all marginalized voices including LGBTQ2S+ and BIPOC communities."
             />
             <Entry
               title="Web Development Bootcamp Mentor"
@@ -321,22 +316,22 @@ const ContactSection = () => (
     <List
       items={[
         {
-          title: "amandala1086@gmail.com",
-          href: "mailto:amandala1086@gmail.com",
+          title: "dev@portad.ca",
+          href: "mailto:dev@portad.ca"
         },
         { title: "github.com/amandala", href: "http://github.com/amandala" },
         {
           title: "linkedin.com/in/ahayn465",
-          href: "http://linkedin.com/in/ahayn465",
+          href: "http://linkedin.com/in/ahayn465"
         },
         {
           title: "instagram.com/mixedmanifest",
-          href: "https://www.instagram.com/mixedmanifest",
+          href: "https://www.instagram.com/mixedmanifest"
         },
         {
           title: "linktr.ee/mixedmanifest",
-          href: "https://linktr.ee/mixedmanifest",
-        },
+          href: "https://linktr.ee/mixedmanifest"
+        }
       ]}
     />
   </Section>
