@@ -206,7 +206,7 @@ const CV = () => {
               date="May 2021 - Current"
               details="I'm currently working as a Team Lead on a personal online banking project. My team is responsible for re-writing legacy code to implement a fresh design system and achieve functional parity with the legacy system. I'm also volunteering 
               on a side-of-desk project for Ignite Calgary building their website and blog 
-              using NextJS and Prismic."
+              using NextJS and Prismic. In my previous engagement, I worked on a project for a global oil & gas company helping the team iterate on new features of their mobile app in the role of Product Owner."
             />
             <Entry
               title="Senior Product Engineer & Team Lead"
