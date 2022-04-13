@@ -8,10 +8,6 @@ import Section from "../components/Section";
 import styles from "./index.module.scss";
 
 import { useEffect, useCallback, useRef } from "react";
-import { scrypt } from "crypto";
-
-// React hook for delaying calls with time
-// returns callback to use for cancelling
 
 const useTimeout = (
   callback: () => void, // function to call. No args passed.
@@ -85,7 +81,7 @@ const CV = () => {
               items={[
                 {
                   title:
-                    "Designing and developing an online presence for Big Kitty Mag - an underground arts and culture magazine showcasing Calgary's street life."
+                    "Designing and implementing on an online presence for Big Kitty Magazine - an underground arts and culture magazine showcasing Calgary's street life."
                 },
                 {
                   title:
@@ -101,11 +97,11 @@ const CV = () => {
                 },
                 {
                   title:
-                    "Volunteering as Live Art Director for Impact Music Festival & Intersect Art and Music Festival"
+                    "Volunteering as Live Art Director for Inter.Sect Art and Music Festival and Inspire Fest YYC."
                 },
                 {
                   title:
-                    "Collaboarting with United Universal Collective to revamp their online presence for collective members"
+                    "Collaborating on a large graffiti installation at Wicked Woods Music Festival."
                 }
               ]}
             />
@@ -120,7 +116,7 @@ const CV = () => {
                 },
                 {
                   title: "Prom Night Skate",
-                  href: "http://promnightgirls.com"
+                  href: "https://prom-night-girls.herokuapp.com/"
                 },
                 {
                   title: "Ignite Calgary",
@@ -128,7 +124,7 @@ const CV = () => {
                 },
                 {
                   title: "Live Art Installations",
-                  href: "https://linktr.ee/mixedmanifest"
+                  href: "https://www.mixedmanifest.com"
                 }
               ]}
             />
@@ -141,6 +137,12 @@ const CV = () => {
               repair sole-proprietorship into an incorporated contracting
               company specializing in custom landscaping design with net yearly
               revenue of $100,000.
+            </P>
+            <P>
+              While running Wicked Earth Contracting, I gained valuable
+              experience leading teams, scoping and pricing projects, overseeing
+              and participating in construction, and managing marketing and
+              sales.
             </P>
           </Section>
           <Section>
@@ -200,7 +202,7 @@ const CV = () => {
               <Green>Exp</Green>erience
             </H2>
             <Entry
-              title="Senior Consultant & Team Lead"
+              title="Senior Consultant & Team Lead - Front End Engineering"
               location="Deloitte Digital - D Studio"
               link="www.deloittedigital.com"
               date="May 2021 - Current"
@@ -228,7 +230,7 @@ const CV = () => {
                   dive into new problem domains with ease."
             />
             <Entry
-              title="Founder & Creative Director"
+              title="Founder & Creative Arts and Technology Director"
               location="Mixed Manifest"
               link="linktr.ee/mixedmanifest"
               date="2019 - Current"
@@ -243,7 +245,7 @@ const CV = () => {
               graffiti jam exhibits taking place at music festivals this summer."
             />
             <Entry
-              title="Developer & Contributor"
+              title="Web Developer & Contributor"
               location="Big Kitty Magazine"
               link="www.bigkittymag.com"
               date="2020 - Current"
