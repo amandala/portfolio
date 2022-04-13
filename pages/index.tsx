@@ -133,7 +133,7 @@ const CV = () => {
             <H2>Fun Fact</H2>
             <P small>
               Before transitioning into technology, I was partner in a landscape
-              construction company. In just 5 years we transformed a handyman
+              construction company. In just 5 years I transformed a handyman
               repair sole-proprietorship into an incorporated contracting
               company specializing in custom landscaping design with net yearly
               revenue of $100,000.
