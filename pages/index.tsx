@@ -170,9 +170,12 @@ const CV = () => {
             <P>
               My core competencies lie in web technologies and I am passionate
               about projects that exist at the intersection of art and
-              technology. I'm on a mission to create collaborative, accessible,
-              interactive, and immersive experiences leveraging various mediums
-              both tangible and intangible.
+              technology.
+            </P>
+            <P>
+              I'm on a mission to create collaborative, accessible, interactive,
+              and immersive experiences leveraging various mediums both tangible
+              and intangible.
             </P>
             <P>
               I thrive in environments where I can collaborate closely with
