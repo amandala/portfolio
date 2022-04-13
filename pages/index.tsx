@@ -221,7 +221,7 @@ const CV = () => {
               location="Versett"
               link="versett.com"
               date="May 2016 - May 2021"
-              details="My role as an Senior Product Engineer at Versett has me switching
+              details="My role as an Senior Product Engineer at Versett had me switching
                   between strategic consulting and UX development as I
                   help design and build solutions for clients in enterprise,
                   startup, and venture domains. I leverage the most modern
