@@ -165,11 +165,14 @@ const CV = () => {
             <P>
               I am driven by creating order out of chaos and am constantly
               searching for opportunities to leverage technology in new and
-              interesting ways. My core competencies lie in web technologies and
-              I am passionate about projects that exist at the intersection of
-              art and technology. I'm on a mission to create collaborative,
-              accessible, interactive, and immersive experiences leveraging
-              various mediums both tangible and intangible.
+              interesting ways.
+            </P>
+            <P>
+              My core competencies lie in web technologies and I am passionate
+              about projects that exist at the intersection of art and
+              technology. I'm on a mission to create collaborative, accessible,
+              interactive, and immersive experiences leveraging various mediums
+              both tangible and intangible.
             </P>
             <P>
               I thrive in environments where I can collaborate closely with
@@ -232,17 +235,11 @@ const CV = () => {
             <Entry
               title="Founder & Creative Arts and Technology Director"
               location="Mixed Manifest"
-              link="linktr.ee/mixedmanifest"
+              link="mixedmanifest.com"
               date="2019 - Current"
               details="It started as a volunteer position as Art Director at a 
               small charity music festival and turned into a mission to bring together
-              a community of artists and creatives to collaborate on massive live art installations
-              live streamed online for the world to participate. I work as a consultant teaming up with various
-              event production companies to create live aerosol art installations set to live music paired with custom
-              event websites that include Twitch channel embeds, discord chat functionality, and digital art galleries.
-              For this summer, I'm planning two community driven public art projects, one independently, and one in collaboration with
-              the Bowness BIA with help from the Ripples Grant and ActivateYYC Grant. I'm also working to coordinate and implement two
-              graffiti jam exhibits taking place at music festivals this summer."
+              a community of artists and creatives to collaborate on massive live art installations. I work as the Creative Arts and Technology Director of Mixed Manifest, teaming up with various event production companies to create live aerosol art installations at public events, implement festival stage production, and design and implement murals in private residences and businesses."
             />
             <Entry
               title="Web Developer & Contributor"
@@ -251,8 +248,7 @@ const CV = () => {
               date="2020 - Current"
               details="I'm creating a digital presence and contributing as a writer for Calgary's newest 
               arts, music, and culture magazine. I've built the website leveraging NextJS and Prismic CMS
-              for an easy to update and SEO friendly online experience. Big Kitty Magazine strives to be a safe,
-              inclusive, and accessible publication for all marginalized voices including LGBTQ2S+ and BIPOC communities."
+              for an easy to update and SEO friendly online experience."
             />
             <Entry
               title="Web Development Bootcamp Mentor"
