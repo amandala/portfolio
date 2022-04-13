@@ -138,7 +138,7 @@ const CV = () => {
               company specializing in custom landscaping design with net yearly
               revenue of $100,000.
             </P>
-            <P>
+            <P small>
               While running Wicked Earth Contracting, I gained valuable
               experience leading teams, scoping and pricing projects, overseeing
               and participating in construction, and managing marketing and
