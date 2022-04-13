@@ -16,11 +16,19 @@ p {
   line-height: 22px;
   margin-bottom: 24px;
 
+  @include breakpoint(medium) {
+    font-weight: 200;
+  }
+
   &Small {
     font-size: 16px;
     line-height: 20px;
-    font-weight: 200;
+    font-weight: 300;
     letter-spacing: 0.5px;
+
+    @include breakpoint(medium) {
+      font-weight: 200;
+    }
   }
 }
 

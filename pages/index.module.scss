@@ -76,7 +76,7 @@
   text-align: center;
 }
 
-@include medium {
+@include breakpoint(medium) {
   .Header {
     margin-bottom: 32px;
   }

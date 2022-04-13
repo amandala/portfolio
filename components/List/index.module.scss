@@ -11,10 +11,14 @@
 
   &Item {
     font-family: $Raleway;
-    font-weight: 200;
+    font-weight: 300;
     font-size: 16px;
     line-height: 20px;
     margin-bottom: 6px;
+
+    @include breakpoint(medium) {
+      font-weight: 200;
+    }
   }
 
   &Link {

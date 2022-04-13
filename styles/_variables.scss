@@ -7,38 +7,20 @@ $spray-blue: #6ce0f1;
 
 $Roboto: "Roboto Slab", serif;
 $Raleway: "Raleway", sans-serif;
+$breakpoints: (
+  base: 0,
+  xxsmall: 375px,
+  xsmall: 414px,
+  small: 540px,
+  medium: 768px,
+  large: 1024px,
+  xlarge: 1200px,
+  xxlarge: 1410px
+);
 
-//for-phone-only
-@mixin small {
-  @media (max-width: 599px) {
-    @content;
-  }
-}
-
-//for-tablet-portrait-up
-@mixin medium {
-  @media (min-width: 600px) {
-    @content;
-  }
-}
-
-//for-tablet-landscape-up
-@mixin large {
-  @media (min-width: 900px) {
-    @content;
-  }
-}
-
-//for-desktop-up
-@mixin xlarge {
-  @media (min-width: 1200px) {
-    @content;
-  }
-}
-
-//for-big-desktop-up
-@mixin massive {
-  @media (min-width: 1800px) {
+@mixin breakpoint($breakpoint) {
+  $size: map-get($breakpoints, $breakpoint);
+  @media screen and (min-width: $size) {
     @content;
   }
 }
