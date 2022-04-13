@@ -207,7 +207,7 @@ const CV = () => {
             <Entry
               title="Senior Consultant & Team Lead - Front End Engineering"
               location="Deloitte Digital - D Studio"
-              link="www.deloittedigital.com"
+              link="deloittedigital.com"
               date="May 2021 - Current"
               details="I'm currently working as a Team Lead on a personal online banking project. My team is responsible for re-writing legacy code to implement a fresh design system and achieve functional parity with the legacy system. I'm also volunteering 
               on a side-of-desk project for Ignite Calgary building their website and blog 
@@ -216,7 +216,7 @@ const CV = () => {
             <Entry
               title="Senior Product Engineer & Team Lead"
               location="Versett"
-              link="www.versett.com"
+              link="versett.com"
               date="May 2016 - May 2021"
               details="My role as an Senior Product Engineer at Versett has me switching
                   between strategic consulting and UX development as I
@@ -244,7 +244,7 @@ const CV = () => {
             <Entry
               title="Web Developer & Contributor"
               location="Big Kitty Magazine"
-              link="www.bigkittymag.com"
+              link="bigkittymag.com"
               date="2020 - Current"
               details="I'm creating a digital presence and contributing as a writer for Calgary's newest 
               arts, music, and culture magazine. I've built the website leveraging NextJS and Prismic CMS
@@ -253,7 +253,7 @@ const CV = () => {
             <Entry
               title="Web Development Bootcamp Mentor"
               location="Lighthouse Labs"
-              link="www.lighthouselabs.ca"
+              link="lighthouselabs.ca"
               date="2016 - 2018"
               details="My mentorship role was a part time evening position where I
                   assisted students as they progressed through a 10 week
@@ -282,7 +282,7 @@ const CV = () => {
             <Entry
               title="Technical Support Analyst"
               location="Hitachi ID Systems"
-              link="www.hitachi-id.com"
+              link="hitachi-id.com"
               date="2014"
               details="To fulfill a requirement of my degree, I completed a four
                   month internship as a technical support analyst for a the
