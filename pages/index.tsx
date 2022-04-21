@@ -89,7 +89,7 @@ const CV = () => {
                 },
                 {
                   title:
-                    "Organizing another block-long graffiti and street art jam for summer 2022"
+                    "Organizing another block-long street art jam for summer 2022"
                 },
                 {
                   title:
@@ -97,11 +97,7 @@ const CV = () => {
                 },
                 {
                   title:
-                    "Volunteering as Live Art Director for Inter.Sect Art and Music Festival and Inspire Fest YYC."
-                },
-                {
-                  title:
-                    "Collaborating on a large graffiti installation at Wicked Woods Music Festival."
+                    "Working as Live Art Director for Inter.Sect Art and Music Festival, Wicked Woods Music Festival, Feral Music Festival, and Inspire Fest YYC."
                 }
               ]}
             />
@@ -217,6 +213,12 @@ const CV = () => {
               using NextJS and Prismic. In my previous engagement, I worked on a project for a global oil & gas company helping the team iterate on new features of their mobile app in the role of Product Owner."
             />
             <Entry
+              title="Live Art Director"
+              location="Various Music Festivals"
+              date="Summer 2022"
+              details="This summer I am working with Wicked Woods Festival, Feral Festival, Inter.Sect Arts and Music Festival, and Inspire Festival as the Live Art Director. In this role, I plan, coordinate, and facilitate live art installations including live painting, murals, and physical installations. I act as the liaison between the festival production crew and artists to help reach the event's artistic direction in alignment with each artist's creative vision for their contribution. This role is a part-time engagement during evenings and weekends."
+            />
+            <Entry
               title="Senior Product Engineer & Team Lead"
               location="Versett"
               link="versett.com"
@@ -230,7 +232,7 @@ const CV = () => {
                   team, we have delivered scalable customized solutions
                   including cryptocurrency exchange platforms, business travel
                   tools, custom ecommerce platforms, rich data visualizations,
-                  mobile career coach applications and many more. The wide range
+                  mobile career coach applications, and many more. The wide range
                   of projects I have been exposed to at Versett has broadened my
                   toolbealt and honed my ability to learn new skills and deep
                   dive into new problem domains with ease."
