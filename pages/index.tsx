@@ -97,7 +97,7 @@ const CV = () => {
                 },
                 {
                   title:
-                    "Working as Live Art Director for Inter.Sect Art and Music Festival, Wicked Woods Music Festival, Feral Music Festival, and Inspire Fest YYC."
+                    "Working as Live Art Director for Inter.Sect Art and Music Festival, Wicked Woods Music Festival, Feral Music Festival, Casabastock Festival, and Inspire Fest YYC."
                 }
               ]}
             />
@@ -208,7 +208,7 @@ const CV = () => {
               location="Deloitte Digital - D Studio"
               link="deloittedigital.com"
               date="May 2021 - Current"
-              details="I started my journey at Deloitte as a Senior Consultant in the Front End Engineering practice and was promoted to Engineering Manager in June 2022. I am currently staffedgit on a personal online banking project. My team is responsible for re-writing legacy code to implement a fresh design system and achieve functional parity with the legacy system. I'm also volunteering 
+              details="I started my journey at Deloitte as a Senior Consultant in the Front End Engineering practice and was promoted to Engineering Manager in June 2022. I am currently staffed on a personal online banking project. My team is responsible for re-writing legacy code to implement a fresh design system and achieve functional parity with the legacy system. I'm also volunteering 
               on a side-of-desk project for Ignite Calgary building their website and blog 
               using NextJS and Prismic. In my previous engagement, I worked on a project for a global oil & gas company helping the team iterate on new features of their mobile app in the role of Product Owner."
             />
