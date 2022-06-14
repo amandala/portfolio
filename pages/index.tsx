@@ -39,8 +39,8 @@ const CV = () => {
           Amanda<span className={styles.Bold}>Haynes</span>
         </H1>
         <P className={styles.Title}>
-          Lead Software Developer and Creative Director thriving at the
-          intersection of Art and Technology
+          Engineering Manager and Creative Director thriving at the intersection
+          of Art and Technology
         </P>
       </div>
       <div className={styles.MainWrapper}>
