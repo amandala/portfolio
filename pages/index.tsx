@@ -85,10 +85,6 @@ const CV = () => {
                 },
                 {
                   title:
-                    "Creating a marketing website for Prom Night Skate all girls boardsports club"
-                },
-                {
-                  title:
                     "Organizing another block-long street art jam for summer 2022"
                 },
                 {
@@ -109,10 +105,6 @@ const CV = () => {
                 {
                   title: "Big Kitty Magazine",
                   href: "http://bigkittymag.com"
-                },
-                {
-                  title: "Prom Night Skate",
-                  href: "https://prom-night-girls.herokuapp.com/"
                 },
                 {
                   title: "Ignite Calgary",
