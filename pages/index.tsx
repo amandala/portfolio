@@ -39,8 +39,8 @@ const CV = () => {
           Amanda<span className={styles.Bold}>Haynes</span>
         </H1>
         <P className={styles.Title}>
-          Engineering Manager and Creative Director thriving at the intersection
-          of Art and Technology
+          Web Developer and Creative Director thriving at the intersection of
+          Art and Technology
         </P>
       </div>
       <div className={styles.MainWrapper}>
@@ -196,10 +196,17 @@ const CV = () => {
               <Green>Exp</Green>erience
             </H2>
             <Entry
-              title="Engineering Manager"
+              title="Web Developer"
+              location="Spotify - Amplify Mission"
+              link="spotify.com"
+              date="August 2022 - Present"
+              details="My role at Spotify is on the Ad Formats Client Architecture squad within the Amplify Mission. I work on the Web and Desktop clients iterating on and maintaining existing ad formats, and working towards a re-write of our current advertisements on the platform. My squad also owns a number of internal tooling applications including platforms to quickly create test Spotify users, and debug user sessions for ad performance."
+            />
+            <Entry
+              title="Engineering Lead"
               location="Deloitte Digital - D Studio"
               link="deloittedigital.com"
-              date="May 2021 - Current"
+              date="May 2021 - August 2022"
               details="I started my journey at Deloitte as a Senior Consultant in the Front End Engineering practice and was promoted to Engineering Manager in June 2022. I am currently staffed on a personal online banking project. My team is responsible for re-writing legacy code to implement a fresh design system and achieve functional parity with the legacy system. I'm also volunteering 
               on a side-of-desk project for Ignite Calgary building their website and blog 
               using NextJS and Prismic. In my previous engagement, I worked on a project for a global oil & gas company helping the team iterate on new features of their mobile app in the role of Product Owner."
