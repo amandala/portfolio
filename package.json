@@ -3,26 +3,21 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "engines": {
-    "node": "v14.21.0",
-    "npm": "8.19.2"
-  },
   "scripts": {
     "dev": "next",
     "build": "next build",
     "start": "next start -p $PORT",
-    "lint": "eslint",
-    "heroku-postbuild": "npm run build"
+    "lint": "eslint"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@zeit/next-sass": "^1.0.1",
-    "next": "^9.2.1",
-    "node-sass": "^4.13.1",
+    "next": "^12.2.5",
+    "node-sass": "^6.0.0",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "sass": "^1.55.0"
   },
   "devDependencies": {
     "@types/node": "^13.5.3",
@@ -34,6 +29,6 @@
     "eslint-plugin-react": "^7.18.0",
     "tslint-config-prettier": "^1.18.0",
     "tslint-plugin-prettier": "^2.1.0",
-    "typescript": "^3.7.5"
+    "typescript": "^4.3.2"
   }
 }
